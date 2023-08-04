@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">06384d4f-5a55-4eea-b9e4-a949acc01c20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06384d4f-5a55-4eea-b9e4-a949acc01c20</dc:identifier>
+        <dc:title>Microsoft Power BI Data Analyst Certification Guide (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Ed Corcoran, Orrin Edenfield" opf:role="aut">Ed Corcoran, Orrin Edenfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-22T00:00:00+00:00</dc:date>
+        <dc:description>A comprehensive guide to becoming a confident and certified Power BI professional</dc:description>
+        <dc:publisher>Packt Publishing Pvt Ltd</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
